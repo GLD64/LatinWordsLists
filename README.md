@@ -1,1 +1,1 @@
-2500LatinWords.ods contains a list of Latin words as found in missals, etc. from a to ázymos. The file contains one sheet. It contains a column which can be saved to a txt file and then imported to Abbyy FineReader 14 and 15.
+2500LatinWords.ods is a LibreOffice Calc file which contains a list of about 2500 Latin words (as found in missals, etc.) from a to ázymos. The file contains one sheet. It also contains a column which can be saved to a txt file and then imported to Abbyy FineReader 14 and 15.
